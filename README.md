@@ -1,4 +1,4 @@
-# Kamas-QB-Pack
+# RedM-VORP-Pack
 This is Kamatcho's VORP Pack which is ready to launch
 
 I am giving out "pre-build" server packs of the most common frameworks for RedM. There is nothing custom in here, just a little "Kama-Touch" to bugs or problems I encountered while assembling this pack. I just want to take away the hassle for people that don't want to search or assemble their own server. I understand most people don't know where to look, what to download, how to install and whatnot. I am here to try and make it a little bit easier for the not so nerdy people amongst us. 
